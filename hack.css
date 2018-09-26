@@ -1,0 +1,30 @@
+h1 {
+	background-color: darkslategrey;
+	margin: -1%;
+	color: lightgrey;
+	border: groove grey;
+	border-width: thick;
+	text-shadow: 1px 3px red;
+}
+mark {
+	color: blue;
+}
+fieldset {
+	background-color: lightgrey;
+	text-align: center;
+}
+a {
+	text-decoration: none;
+}
+input {
+	background-image: url(download.png);
+	background-position: right;
+	background-size: 15%;
+	background-repeat: no-repeat;
+}
+div {
+	float: right;
+}
+textarea {
+    float: right;
+}
